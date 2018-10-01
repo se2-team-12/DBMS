@@ -1,2 +1,2 @@
 # DBMS
-Databas Moudules
+Database Moudules
